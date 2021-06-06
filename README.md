@@ -1,5 +1,5 @@
 ### Bonjour 🌻
-![Eupraxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eupraxiia&theme=default&show_icons=true width=100) 
+![Eupraxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eupraxiia&theme=default&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eupraxiia&theme=default)
 <!--
 **eupraxiia/eupraxiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
